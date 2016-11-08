@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ruleset name="phive">
+    <description>Phar.io's coding standard</description>
+
+  
+
+    <rule ref="Generic.Functions.OpeningFunctionBraceBsdAllman"/>
+
+</ruleset>
+

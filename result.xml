@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="2.6.2">
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer.php">
+ <error line="232" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="1976" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="2219" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Info.php">
+ <error line="65" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="113" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Junit.php">
+ <error line="60" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="139" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/VersionControl.php">
+ <error line="81" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="177" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Full.php">
+ <error line="55" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="223" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Xml.php">
+ <error line="55" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="123" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Notifysend.php">
+ <error line="126" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="159" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Cbf.php">
+ <error line="59" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="144" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Checkstyle.php">
+ <error line="55" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="119" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Summary.php">
+ <error line="69" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="113" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Emacs.php">
+ <error line="55" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="104" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Source.php">
+ <error line="62" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="138" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Diff.php">
+ <error line="51" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="140" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Csv.php">
+ <error line="55" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="104" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reports/Json.php">
+ <error line="53" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="120" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/File.php">
+ <error line="308" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="394" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="815" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="849" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="881" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="905" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="931" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="962" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="1791" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="1896" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="3283" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="3364" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Reporting.php">
+ <error line="225" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/CLI.php">
+ <error line="1011" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/Generic/Sniffs/NamingConventions/ConstructorNameSniff.php">
+ <error line="76" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/AbstractPatternSniff.php">
+ <error line="278" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="780" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/AbstractScopeSniff.php">
+ <error line="90" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="194" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/MySource/Sniffs/Channels/IncludeSystemSniff.php">
+ <error line="82" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="313" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/MySource/Sniffs/Channels/IncludeOwnSystemSniff.php">
+ <error line="102" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/vendor/squizlabs/php_codesniffer/CodeSniffer/Standards/AbstractVariableSniff.php">
+ <error line="101" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="176" column="7" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/src/Metadata/Driver/DriverChain.php">
+ <error line="31" column="5" severity="error" message="Opening brace indented incorrectly; expected 8 spaces, found 4" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceIndent"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/src/Metadata/Version.php">
+ <error line="25" column="23" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/src/Metadata/Cache/FileCache.php">
+ <error line="56" column="51" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+<file name="/home/linglong/workspace/test-projects/metadata/src/Foo.php">
+ <error line="5" column="27" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="9" column="27" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+ <error line="10" column="41" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
+</checkstyle>
+
