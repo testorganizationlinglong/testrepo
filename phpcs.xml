@@ -22,4 +22,6 @@
   <rule ref="Generic.WhiteSpace.ScopeIndent"/>
   <rule ref="Squiz.WhiteSpace.SuperfluousWhitespace"/>
   <rule ref="EcgM2"/>
+  <rule ref="WordPress-Docs"/>
+	<rule ref="WordPress-Extra"/>
 </ruleset>
